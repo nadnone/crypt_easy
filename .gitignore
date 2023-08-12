@@ -1,0 +1,8 @@
+*.txt
+*.obj
+*.exe
+*.o
+.vscode
+*.crypted
+*.crypt
+*.zip
